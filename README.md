@@ -16,6 +16,10 @@ Simple Exponential Smoothing (SES) defintion : SES is a time series forecasting 
 
 
 ## 🧩 Problem
+<p align="center">
+  <img width="713" height="549" alt="image" src="https://github.com/user-attachments/assets/2ca3f8a4-e71b-4b2d-955d-b2298c1f25e1" />
+</p>
+
 <img width="713" height="549" alt="image" src="https://github.com/user-attachments/assets/2ca3f8a4-e71b-4b2d-955d-b2298c1f25e1" />
 
 - SES oftenly used to help engineers forecast their company/enterprise sales in the future.
@@ -30,7 +34,7 @@ Simple Exponential Smoothing (SES) defintion : SES is a time series forecasting 
 
 ## 🛠 Tools Used
 
-- Python(numpy, matplotlib)
+- Python(numpy, matplotlib,statsmodels)
 
 ---
 
