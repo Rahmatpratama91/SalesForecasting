@@ -1,9 +1,9 @@
 # Sales Forecasting
-Sales forecasting definition : Sales forecasting is the process of estimating future sales based on historical data, market trends, seasonal patterns, and business strategies. It helps organizations predict how much of a product or service will be sold in a given time period, typically to guide decision-making in budgeting, staffing, inventory management, and marketing.
+- Sales forecasting definition : Sales forecasting is the process of estimating future sales based on historical data, market trends, seasonal patterns, and business strategies. It helps organizations predict how much of a product or service will be sold in a given time period, typically to guide decision-making in budgeting, staffing, inventory management, and marketing.
 
 Example: “A company forecasts selling 5,000 units of Product A next quarter based on last year's quarterly performance and expected marketing activities.”
 
-Simple Exponential Smoothing (SES) defintion : SES is a time series forecasting method used when data shows no clear trend or seasonality. It generates forecasts by assigning exponentially decreasing weights to past observations — meaning more recent data has more influence on the forecast than older data.
+- Simple Exponential Smoothing (SES) defintion : SES is a time series forecasting method used when data shows no clear trend or seasonality. It generates forecasts by assigning exponentially decreasing weights to past observations — meaning more recent data has more influence on the forecast than older data.
 
 ---
 
