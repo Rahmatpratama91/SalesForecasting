@@ -11,8 +11,9 @@ Simple Exponential Smoothing (SES) defintion : SES is a time series forecasting 
 - A Python project to perform sales forecasting using simple exponential smoothing method (SES).
 - The formula:
   
+<p align="center">
   <img width="259" height="64" alt="image" src="https://github.com/user-attachments/assets/28370928-1464-4dc4-b71b-5e947314a514" />
-
+</p>
 
 
 ## 🧩 Problem
@@ -20,7 +21,6 @@ Simple Exponential Smoothing (SES) defintion : SES is a time series forecasting 
   <img width="713" height="549" alt="image" src="https://github.com/user-attachments/assets/2ca3f8a4-e71b-4b2d-955d-b2298c1f25e1" />
 </p>
 
-<img width="713" height="549" alt="image" src="https://github.com/user-attachments/assets/2ca3f8a4-e71b-4b2d-955d-b2298c1f25e1" />
 
 - SES oftenly used to help engineers forecast their company/enterprise sales in the future.
 
@@ -41,8 +41,9 @@ Simple Exponential Smoothing (SES) defintion : SES is a time series forecasting 
 ## 📈 Result 
 
 - Sales forecasting graphic 
-<img width="1224" height="674" alt="image" src="https://github.com/user-attachments/assets/99a587c0-1d54-45cf-a340-5a77cbabe9f5" />
-
+<p align="center">
+  <img width="1224" height="674" alt="image" src="https://github.com/user-attachments/assets/99a587c0-1d54-45cf-a340-5a77cbabe9f5" />
+</p>
 ---
 
 ## 🚀 Run the script
