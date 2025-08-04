@@ -44,6 +44,7 @@ Simple Exponential Smoothing (SES) defintion : SES is a time series forecasting 
 <p align="center">
   <img width="1224" height="674" alt="image" src="https://github.com/user-attachments/assets/99a587c0-1d54-45cf-a340-5a77cbabe9f5" />
 </p>
+
 ---
 
 ## 🚀 Run the script
