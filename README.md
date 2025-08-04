@@ -15,6 +15,11 @@ Example: “A company forecasts selling 5,000 units of Product A next quarter ba
   <img width="259" height="64" alt="image" src="https://github.com/user-attachments/assets/28370928-1464-4dc4-b71b-5e947314a514" />
 </p>
 
+where : di mana:
+- Ft+1 = forecast for the next period
+- At = actual value of the current period
+- Ft = forecast of the current period
+- α = smoothing constant
 
 ## 🧩 Problem
 <p align="center">
