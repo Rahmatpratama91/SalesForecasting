@@ -1,29 +1,29 @@
 # Sales Forecasting
-- Depreciation is the process of allocating the cost of a tangible fixed asset over its useful life. It reflects how much of the asset’s value has been used up over time.
-- Why depreciation matters: shows asset’s decreasing value on financial statements.Helps in tax deduction (as expense). Aids in budgeting for replacement of assets.
-- Examples of depreciable assets: machines,vehicles,buildings,computers.
+Sales forecasting definition : Sales forecasting is the process of estimating future sales based on historical data, market trends, seasonal patterns, and business strategies. It helps organizations predict how much of a product or service will be sold in a given time period, typically to guide decision-making in budgeting, staffing, inventory management, and marketing.
+
+Example: “A company forecasts selling 5,000 units of Product A next quarter based on last year's quarterly performance and expected marketing activities.”
+
+Simple Exponential Smoothing (SES) defintion : SES is a time series forecasting method used when data shows no clear trend or seasonality. It generates forecasts by assigning exponentially decreasing weights to past observations — meaning more recent data has more influence on the forecast than older data.
 
 ---
 
 ## 📌 Project Overview
-- A Python project to perform sales forecasting using SES method.
-   Metode SES:
-Ft+1=α⋅At+(1−α)⋅FtF_{t+1} = \alpha \cdot A_t + (1 - \alpha) \cdot F_tFt+1=α⋅At+(1−α)⋅Ft 
-Misal:
-•	α = 0.3
-•	A₁₆ = 170
-•	F₁₆ ≈ hasil SES model fitting → gunakan nilai output dari Python
+- A Python project to perform sales forecasting using simple exponential smoothing method (SES).
+- 
+  The formula:
+  <img width="259" height="64" alt="image" src="https://github.com/user-attachments/assets/28370928-1464-4dc4-b71b-5e947314a514" />
+
 
 
 ## 🧩 Problem
-Simple exponential smoothing method (SES) oftenly used to help engineers forecast their company/enterprise sales in the future.
+- SES oftenly used to help engineers forecast their company/enterprise sales in the future.
 
 ---
 
 ## ✨ Features
 
-- Forecast 3 months period data using simple exponential smoothing method (SES)
-- Visualize it using matplotlib library
+- Forecast 3 months period data using SES method.
+- Visualize it using matplotlib library.
 
 
 ## 🛠 Tools Used
